@@ -18,13 +18,23 @@ Ce jeu est un projer rendu lors de ma première année de licence au CNAM ENJMIN
 ## Crédits et Assets
 
 Modèle 3D des bateaux : Alstra Infinite - Boats - PolyPack https://assetstore.unity.com/packages/3d/vehicles/sea/boats-polypack-189866
+
 Bruit d'Ennemis blessés : https://lasonotheque.org/detail-2361-cri-de-douleur.html
+
 Bruit de pas : https://admin.sounddesigners.org/fr/sonotheque/download/29-pas/4946-footstepsinarmor.html
+
 Bruit de détection d'un ennemi : https://www.myinstants.com/fr/instant/metal-gear-solid-alert/
+
 Maisons des cinématiques : Johnny Kasapi - Furnished Cabin https://assetstore.unity.com/packages/3d/environments/urban/furnished-cabin-71426
+
 Personnages, et éléments composants le labyrinthe : https://devilsworkshop.itch.io/low-poly-3d-and-pixel-2d-rpg-game-assets
+
 Arbres proches de la vage : past12pm - Asian Tree Package Vol. 1 https://assetstore.unity.com/packages/3d/vegetation/trees/asian-tree-package-vol-1-225842
+
 Chevaliers : Polygon Blacksmith - Toony Tiny RTS Demo https://assetstore.unity.com/packages/3d/characters/toony-tiny-rts-demo-141705
+
 Arbres : Pixel Games - Realistic Tree 9 https://assetstore.unity.com/packages/3d/vegetation/trees/realistic-tree-9-rainbow-tree-54622
+
 Skybox : Kendall Weaver - Urban Night Sky https://assetstore.unity.com/packages/2d/textures-materials/sky/urban-night-sky-134468
+
 Placement aléatoire des arbres : Staggart Creations - Vegetation Spawner https://assetstore.unity.com/packages/tools/terrain/vegetation-spawner-177192
