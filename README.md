@@ -29,7 +29,7 @@ Maisons des cinématiques : Johnny Kasapi - Furnished Cabin https://assetstore.u
 
 Personnages, et éléments composants le labyrinthe : https://devilsworkshop.itch.io/low-poly-3d-and-pixel-2d-rpg-game-assets
 
-Arbres proches de la vage : past12pm - Asian Tree Package Vol. 1 https://assetstore.unity.com/packages/3d/vegetation/trees/asian-tree-package-vol-1-225842
+Arbres proches de la cage : past12pm - Asian Tree Package Vol. 1 https://assetstore.unity.com/packages/3d/vegetation/trees/asian-tree-package-vol-1-225842
 
 Chevaliers : Polygon Blacksmith - Toony Tiny RTS Demo https://assetstore.unity.com/packages/3d/characters/toony-tiny-rts-demo-141705
 
